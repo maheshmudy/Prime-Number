@@ -17,7 +17,7 @@ function prime()
                  else  
                  if(n%i===0)
                     {
-                    document.getElementById("result").value=" Not Prime Number";
+                    document.getElementById("result").value="Composite Number";
                     break;
                     }
               } 
