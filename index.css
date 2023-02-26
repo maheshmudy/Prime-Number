@@ -1,0 +1,30 @@
+n*{
+    border: solid 2px red;
+    padding: 4px;
+}
+body {
+    background-color: aqua;
+ 
+}
+table {
+    padding: 10px;
+    border: solid 2px blue;
+}
+td{
+    padding: 8px;
+    width: 50%;
+}
+input 
+{
+    height: 25px;
+}
+button 
+{
+    color: white;
+    background-color: green;
+    height: 40px;
+    border-radius: 7px;
+    font-size: medium;
+    width: 100%;
+
+}
